@@ -12,8 +12,10 @@ specifiers:
   axios: ^1.6.2
   chalk: ^4.1.2
   commander: ^11.1.0
+  figlet: ^1.7.0
   fs-extra: ^11.1.1
   lodash: ^4.17.21
+  log-symbols: 4.1.0
   ora: '5'
   progress-estimator: ^0.3.1
   rollup: ^4.6.1
@@ -35,8 +37,10 @@ devDependencies:
   axios: 1.6.2
   chalk: 4.1.2
   commander: 11.1.0
+  figlet: 1.7.0
   fs-extra: 11.2.0
   lodash: 4.17.21
+  log-symbols: 4.1.0
   ora: 5.4.1
   progress-estimator: 0.3.1
   rollup: 4.9.1
@@ -686,6 +690,12 @@ packages:
       chardet: 0.7.0
       iconv-lite: 0.4.24
       tmp: 0.0.33
+    dev: true
+
+  /figlet/1.7.0:
+    resolution: {integrity: sha512-gO8l3wvqo0V7wEFLXPbkX83b7MVjRrk1oRLfYlZXol8nEpb/ON9pcKLI4qpBv5YtOTfrINtqb7b40iYY2FTWFg==}
+    engines: {node: '>= 0.4.0'}
+    hasBin: true
     dev: true
 
   /figures/3.2.0:
