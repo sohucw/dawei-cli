@@ -1,6 +1,6 @@
 {
     "name": "dawei-cli",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "dawei-cli 脚手架",
     "main": "index.js",
     "scripts": {
