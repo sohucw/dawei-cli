@@ -24,12 +24,12 @@ export const templates: Map<string, TemplateInfo> = new Map([
         },
     ],
     [
-        'Vite-temp',
+        'Vite-Vue3-移动端模板',
         {
             name: 'Vite-Vue3-Typescript-tempalte',
             downloadUrl: 'git@gitee.com:sohucw/admin-pro.git',
             description: 'Vue3技术栈开发模板',
-            branch: 'dev10',
+            branch: 'h5',
         },
     ],
 ]);
